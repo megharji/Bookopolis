@@ -3,10 +3,9 @@ import 'remixicon/fonts/remixicon.css'
 import './Home.css'
 import { motion } from "framer-motion"
 import {Link, Route, Routes} from "react-router-dom"
-
 import{NavLink} from 'react-router-dom'
 import { useDispatch, useSelector } from "react-redux";
-
+import img  from "../../public/image1.png"
 
 const Home = () => {
     const {book} = useSelector((state) => state.RegisterReducer)
@@ -14,10 +13,11 @@ const Home = () => {
   return (
 
     <div className='mainmaster'>
+
         <div className="main" id="home">
               
               <div className="color">
-                  <img src="c77792be1223e62b508c74a9f03a41c2-removebg-preview.png" alt=""/>
+                  <img src={img} alt=""/>
               </div>
               <div className="head">
                   <h1>Bookopolis</h1>

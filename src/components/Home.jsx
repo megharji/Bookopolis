@@ -57,7 +57,7 @@ const Home = () => {
                                     )
                                 })
                                 .reverse()
-                            : "Loding..."}
+                            : " "}
                         
                         <div className="child"> 
                             <img className="child-img" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601883114l/55562715.jpg" alt="" draggable="false"/>
@@ -159,7 +159,7 @@ const Home = () => {
                                     )
                                 })
                                 .reverse()
-                            : "Loding..."}
+                            : " "}
 
                         <div className="child"> 
                             <img className="child-img" src="https://m.media-amazon.com/images/I/51+IQOrfa1L.jpg" alt="" draggable="false"/>
@@ -243,6 +243,25 @@ const Home = () => {
 
                     <div className="scroll-images">
 
+                    {book.length>0
+                            ? book
+                            .filter(book => book.category==="thriller")
+                                
+                                    .map((book,index)=>{
+                                        return(
+                                            
+                                            <div className="child" key={index}> 
+                                                <img className="child-img"  src= {book.imglink} alt="" draggable="false"/>
+                                                <h1>{book.title}</h1>
+                                                <a href="">Read</a>
+                                            </div>
+                                        )
+                                    })
+                                    .reverse()
+                                
+                            : ''
+                            }
+
                         <div className="child"> 
                             <img className="child-img" src="https://m.media-amazon.com/images/I/81W-oMLSFtL._AC_UF1000,1000_QL80_.jpg" alt="" draggable="false"/>
                             <h1>Nobody likes an outsider</h1>
@@ -321,7 +340,22 @@ const Home = () => {
                 <div className="cover">
 
                     <div className="scroll-images">
-
+                    {book.length>0
+                            ? book
+                            .filter(book => book.category==="kids")
+                                .map((book,index)=>{
+                                    return(
+                                        
+                                        <div className="child" key={index}> 
+                                            <img className="child-img"  src= {book.imglink} alt="" draggable="false"/>
+                                            <h1>{book.title}</h1>
+                                            <a href="">Read</a>
+                                        </div>
+                                    )
+                                })
+                                .reverse()
+                            : ""
+                            }
                         <div className="child"> 
                             <img className="child-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49ZoPEDEaWnbWlQN2Te-b00cOPfAMW4Hj1g&usqp=CAU" alt="" draggable="false"/>
                             <h1>The Great Indian travelogue</h1>
@@ -401,7 +435,21 @@ const Home = () => {
                 <div className="cover">
 
                     <div className="scroll-images">
-
+                    {book.length>0
+                            ? book
+                            .filter(book => book.category==="fiction")
+                                .map((book,index)=>{
+                                    return(
+                                        
+                                        <div className="child" key={index}> 
+                                            <img className="child-img"  src= {book.imglink} alt="" draggable="false"/>
+                                            <h1>{book.title}</h1>
+                                            <a href="">Read</a>
+                                        </div>
+                                    )
+                                })
+                                .reverse()
+                            : " "}
                         <div className="child"> 
                             <img className="child-img" src="https://wp.scoopwhoop.com/wp-content/uploads/2014/05/567730bc6e510a6f3a759529_bk7.jpg" alt="" draggable="false"/>
                             <h1>Midnight's children</h1>
@@ -490,7 +538,21 @@ const Home = () => {
                 <div className="cover">
 
                     <div className="scroll-images">
-
+                    {book.length>0
+                            ? book
+                            .filter(book => book.category==="biography")
+                                .map((book,index)=>{
+                                    return(
+                                        
+                                        <div className="child" key={index}> 
+                                            <img className="child-img"  src= {book.imglink} alt="" draggable="false"/>
+                                            <h1>{book.title}</h1>
+                                            <a href="">Read</a>
+                                        </div>
+                                    )
+                                })
+                                .reverse()
+                            : " "}
                         <div className="child"> 
                             <img className="child-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL3gcZKLE2RDyMdfQaijqgT2Wcla72jKUVLVBOH8s3xBHeeGQ3QDTR1g5scMm-5Y8Kno&usqp=CAU" alt="" draggable="false"/>
                             <h1>Stephen Hawking a biography</h1>
@@ -580,7 +642,21 @@ const Home = () => {
                 <div className="cover">
 
                     <div className="scroll-images">
-
+                    {book.length>0
+                            ? book
+                            .filter(book => book.category==="horror")
+                                .map((book,index)=>{
+                                    return(
+                                        
+                                        <div className="child" key={index}> 
+                                            <img className="child-img"  src= {book.imglink} alt="" draggable="false"/>
+                                            <h1>{book.title}</h1>
+                                            <a href="">Read</a>
+                                        </div>
+                                    )
+                                })
+                                .reverse()
+                            : " "}
                         <div className="child"> 
                             <img className="child-img" src="https://m.media-amazon.com/images/I/41kRkqIt6aL._SY445_SX342_.jpg" alt="" draggable="false"/>
                             <h1>That night</h1>

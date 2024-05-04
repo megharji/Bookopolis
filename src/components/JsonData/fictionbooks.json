@@ -1,0 +1,54 @@
+{
+    "fictionbooks": [
+        {
+            "id": 1,
+            "title": "Midnight's children",
+            "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/05/567730bc6e510a6f3a759529_bk7.jpg"
+        },
+        {
+            "id": 2,
+            "title": "The endless search for satisfaction",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOImB6nPy7LQJg0D2yAnBmKRJ_Zug2lvi5g&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "title": "Life is what you make it",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9EmBl1F6synfUmosAmLG-FuQPyuQifvAmbgTuLWNQjFYpxtma6ExSBVc7KqulfRul-M&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "title": "The girl in the room 105",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLPykGzJcYmNh_fSWwhVhzSU1xVbbup9ZBg&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "title": "Bahubali before the beginning",
+            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/08/Chaturanga-Anand-by-Neelakantan-1200x1864.jpg"
+        },
+        {
+            "id": 6,
+            "title": "This is not your story",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_3-pRDRBKb_iFBTD_CoMSCnrx8hMKN4-fXZjqZ2v8driHRWh6R8zQVj_MPRCMfDeHK4&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "title": "Autobiography of an unknown Indian",
+            "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/05/567730bc6e510a6f3a759529_bk2.jpg"
+        },
+        {
+            "id": 8,
+            "title": "The alchemist",
+            "image": "https://m.media-amazon.com/images/I/41e+TR4xPDL._SY445_SX342_.jpg"
+        },
+        {
+            "id": 9,
+            "title": "You only live once",
+            "image": "https://m.media-amazon.com/images/I/71dNsRuYL7L._SY425_.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Something I never told you",
+            "image": "https://m.media-amazon.com/images/I/91PQFpYWLwL._SY425_.jpg"
+        }
+    ]
+}

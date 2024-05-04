@@ -1,0 +1,54 @@
+{
+    "kidsbooks": [
+        {
+            "id": 1,
+            "title": "The Great Indian travelogue",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49ZoPEDEaWnbWlQN2Te-b00cOPfAMW4Hj1g&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "title": "151 Indian mythological stories",
+            "image": "https://rukminim2.flixcart.com/image/850/1000/kctf0cw0/regionalbooks/8/s/h/151-indian-mythological-stories-original-imaftue8zyqydggg.jpeg?q=90"
+        },
+        {
+            "id": 3,
+            "title": "Indian tales",
+            "image": "https://imaginationsoup.net/wp-content/uploads/2018/03/Indian-Tales.jpg"
+        },
+        {
+            "id": 4,
+            "title": "The Elephant Friend",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcautk1WRKUCbMzAuxavAE9yQSnnrktmJ1gRDFZDuqw9TvIXuhom2ZQnPvsgweEh-vSSA&usqp=CAU"
+        },
+        {
+            "id": 5,
+            "title": "Indian children favourite stories",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnrp2lXCOKbSAc1HwUSURLQUJOyrI-3UAOprwFH51n9jo4bhufQ_u0_EtCR-OIDHaTjXg&usqp=CAU"
+        },
+        {
+            "id": 6,
+            "title": "Stories from India",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctH-zWmO5a9z6IsZvxhO333lPzmDOon_-HkeGHtFSar8MAO9TVpbU6SlywmgdoNdcSpw&usqp=CAU"
+        },
+        {
+            "id": 7,
+            "title": "Sari-Sari Summers",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYEmM61GaZ75UqmAkjmEx618VYrosxbIhXY_tpdPG_8B-UcgyjKMIHkEPXk7aJ2l0d9E&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "title": "10 Gulab Jamuns",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlzFXKGhD4HsyGzJWdK8RREsmtnL_FFD_b1NCI9TaMRpNnBSm9XQdELnsjBr-HJSoGxI&usqp=CAU"
+        },
+        {
+            "id": 9,
+            "title": "Granddads are the greatest",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnh6u7djxwIVHXtgRiOCsyNMpkx-pzW6Co8CUUkCgzjfwOrZfhq6b8tZ8Gr5RrcB9DdCU&usqp=CAU"
+        },
+        {
+            "id": 10,
+            "title": "Remembering Sundays with Grandpa",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_v83fGxctTLyn2d_HfhMKSH3brZO46POuGHa_WYk8T-1dDhJ2x3VeyJ3v8dc6FwQITg&usqp=CAU"
+        }
+    ]
+}

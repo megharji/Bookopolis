@@ -4,9 +4,10 @@ import './About.css'
 const About = () => {
   return (
     <div className='main5'>
-      <p>     
       <h2>About Us:</h2>
+
       <br />
+      <p>     
 Welcome to Bookopolis, where words come to life, and imagination knows no bounds. Established with 
 a passion for cultivating a community of avid readers, our library is more than just a collection 
 of books—it's a haven for knowledge seekers, story lovers, and dreamers. Our mission is to provide
@@ -16,11 +17,12 @@ of books—it's a haven for knowledge seekers, story lovers, and dreamers. Our m
         books bring into our lives. Whether you're a seasoned bibliophile or just
         starting your reading journey, our extensive library boasts a diverse collection 
         of genres, ensuring there's something for everyone.Join us in celebrating the boundless magic of storytelling.
- 
+        </p>
 <br />
 <br />
 <h2>Register a Book:</h2>
 <br />
+<p>
 At Bookopolis, we invite authors and publishers to share their literary creations with our diverse 
 community. Registering a book with us opens the door to a world of readers eager to discover new 
 narratives. Showcase your work, connect with a broader audience, and be part of a thriving literary

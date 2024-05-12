@@ -3,52 +3,62 @@
         {
             "id": 1,
             "title": "When I am with you",
-            "image": "https://m.media-amazon.com/images/I/51+IQOrfa1L.jpg"
+            "image": "https://m.media-amazon.com/images/I/51+IQOrfa1L.jpg",
+            "link":"https://www.overdrive.com/media/9173942/when-i-am-with-you"
         },
         {
             "id": 2,
             "title": "The one you cannot have",
-            "image": "https://www.bookgeeks.in/wp-content/uploads/2017/04/the-one-you-cannot-have.jpg"
+            "image": "https://www.bookgeeks.in/wp-content/uploads/2017/04/the-one-you-cannot-have.jpg",
+            "link":"https://www.goodreads.com/en/book/show/18657122"
         },
         {
             "id": 3,
             "title": "A half baked love story",
-            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/05/A-Half-Baked-Love-Story-Anurag-and-Gunjan-Garg.jpg"
+            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/05/A-Half-Baked-Love-Story-Anurag-and-Gunjan-Garg.jpg",
+            "link": "https://www.goodreads.com/en/book/show/16081717"
         },
         {
             "id": 4,
             "title": "The girl who knew too much",
-            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/05/The-Girl-Who-Knew-Too-Much-Vikrant-Khanna.jpg"
+            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/05/The-Girl-Who-Knew-Too-Much-Vikrant-Khanna.jpg",
+            "link": "https://www.goodreads.com/en/book/show/34888145"
         },
         {
             "id": 5,
             "title": "The right swipe",
-            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/05/The-Right-Swipe-Alisha-Rai.jpg"
+            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/05/The-Right-Swipe-Alisha-Rai.jpg",
+            "link": "https://www.goodreads.com/en/book/show/39863092"
         },
         {
             "id": 6,
             "title": "The girl of my dreams",
-            "image": "https://www.bookgeeks.in/wp-content/uploads/2017/04/the-gitl-of-my-dreams.jpg"
+            "image": "https://www.bookgeeks.in/wp-content/uploads/2017/04/the-gitl-of-my-dreams.jpg",
+            "link": "https://www.goodreads.com/en/book/show/3218052"
         },
         {
             "id": 7,
             "title": "When the sun never sets",
-            "image": "https://i.pinimg.com/236x/a1/34/c8/a134c834bb6690de315da178844c6ec1.jpg"
+            "image": "https://i.pinimg.com/236x/a1/34/c8/a134c834bb6690de315da178844c6ec1.jpg",
+            "link": "https://www.goodreads.com/en/book/show/61050690"
         },
         {
             "id": 8,
             "title": "The boy who loved",
-            "image": "https://m.media-amazon.com/images/I/61iTI4olCEL.jpg"
+            "image": "https://m.media-amazon.com/images/I/61iTI4olCEL.jpg",
+            "link": "https://www.goodreads.com/en/book/show/34822376"
         },
         {
             "id": 9,
             "title": "It ends with us",
-            "image": "https://m.media-amazon.com/images/I/71Chcpw13lL._AC_UF1000,1000_QL80_.jpg"
+            "image": "https://m.media-amazon.com/images/I/71Chcpw13lL._AC_UF1000,1000_QL80_.jpg",
+            "link": "https://online.fliphtml5.com/jqdru/emhr/#p=1"
         },
         {
             "id": 10,
             "title": "Lovelight farms",
-            "image": "https://m.media-amazon.com/images/I/81GFqa2KS+L._AC_UF350,350_QL50_.jpg"
+            "image": "https://m.media-amazon.com/images/I/81GFqa2KS+L._AC_UF350,350_QL50_.jpg",
+            "link": "https://www.goodreads.com/en/book/show/122753311"
         }
     ]
 }

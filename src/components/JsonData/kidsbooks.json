@@ -3,52 +3,63 @@
         {
             "id": 1,
             "title": "The Great Indian travelogue",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49ZoPEDEaWnbWlQN2Te-b00cOPfAMW4Hj1g&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49ZoPEDEaWnbWlQN2Te-b00cOPfAMW4Hj1g&usqp=CAU",
+            "link":"https://bloomybraintoys.com/products/the-great-indian-travelogue"
         },
         {
             "id": 2,
             "title": "151 Indian mythological stories",
-            "image": "https://rukminim2.flixcart.com/image/850/1000/kctf0cw0/regionalbooks/8/s/h/151-indian-mythological-stories-original-imaftue8zyqydggg.jpeg?q=90"
+            "image": "https://rukminim2.flixcart.com/image/850/1000/kctf0cw0/regionalbooks/8/s/h/151-indian-mythological-stories-original-imaftue8zyqydggg.jpeg?q=90",
+            "link": "https://booksandyou.in/products/151-indian-mythological-stories"
         },
         {
             "id": 3,
             "title": "Indian tales",
-            "image": "https://imaginationsoup.net/wp-content/uploads/2018/03/Indian-Tales.jpg"
+            "image": "https://imaginationsoup.net/wp-content/uploads/2018/03/Indian-Tales.jpg",
+            "link":"https://mocomi.com/fun/stories/indian-folk-tales/"
+            
         },
         {
             "id": 4,
             "title": "The Elephant Friend",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcautk1WRKUCbMzAuxavAE9yQSnnrktmJ1gRDFZDuqw9TvIXuhom2ZQnPvsgweEh-vSSA&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcautk1WRKUCbMzAuxavAE9yQSnnrktmJ1gRDFZDuqw9TvIXuhom2ZQnPvsgweEh-vSSA&usqp=CAU",
+            "link":"https://www.shortstoriesforkids.net/moral-stories/elephant-and-friends/#google_vign"
         },
         {
             "id": 5,
             "title": "Indian children favourite stories",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnrp2lXCOKbSAc1HwUSURLQUJOyrI-3UAOprwFH51n9jo4bhufQ_u0_EtCR-OIDHaTjXg&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnrp2lXCOKbSAc1HwUSURLQUJOyrI-3UAOprwFH51n9jo4bhufQ_u0_EtCR-OIDHaTjXg&usqp=CAU",
+            "link":"https://www.goodreads.com/en/book/show/2497932"
         },
         {
             "id": 6,
             "title": "Stories from India",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctH-zWmO5a9z6IsZvxhO333lPzmDOon_-HkeGHtFSar8MAO9TVpbU6SlywmgdoNdcSpw&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctH-zWmO5a9z6IsZvxhO333lPzmDOon_-HkeGHtFSar8MAO9TVpbU6SlywmgdoNdcSpw&usqp=CAU",
+            "link":"https://www.induswomanwriting.com/Indian-Short-Stories.html"
         },
         {
             "id": 7,
             "title": "Sari-Sari Summers",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYEmM61GaZ75UqmAkjmEx618VYrosxbIhXY_tpdPG_8B-UcgyjKMIHkEPXk7aJ2l0d9E&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYEmM61GaZ75UqmAkjmEx618VYrosxbIhXY_tpdPG_8B-UcgyjKMIHkEPXk7aJ2l0d9E&usqp=CAU",
+            "link":"https://www.goodreads.com/en/book/show/62594904"
         },
         {
             "id": 8,
             "title": "10 Gulab Jamuns",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlzFXKGhD4HsyGzJWdK8RREsmtnL_FFD_b1NCI9TaMRpNnBSm9XQdELnsjBr-HJSoGxI&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlzFXKGhD4HsyGzJWdK8RREsmtnL_FFD_b1NCI9TaMRpNnBSm9XQdELnsjBr-HJSoGxI&usqp=CAU",
+            "link":"https://www.goodreads.com/en/book/show/36382513"
         },
         {
             "id": 9,
             "title": "Granddads are the greatest",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnh6u7djxwIVHXtgRiOCsyNMpkx-pzW6Co8CUUkCgzjfwOrZfhq6b8tZ8Gr5RrcB9DdCU&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnh6u7djxwIVHXtgRiOCsyNMpkx-pzW6Co8CUUkCgzjfwOrZfhq6b8tZ8Gr5RrcB9DdCU&usqp=CAU",
+            "link":"https://www.goodreads.com/en/book/show/62039303"
         },
         {
             "id": 10,
             "title": "Remembering Sundays with Grandpa",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_v83fGxctTLyn2d_HfhMKSH3brZO46POuGHa_WYk8T-1dDhJ2x3VeyJ3v8dc6FwQITg&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_v83fGxctTLyn2d_HfhMKSH3brZO46POuGHa_WYk8T-1dDhJ2x3VeyJ3v8dc6FwQITg&usqp=CAU",
+            "link":"https://www.goodreads.com/book/show/63389191-remembering-sundays-with-grandpa"
         }
     ]
 }

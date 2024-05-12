@@ -59,8 +59,7 @@ const Home = () => {
                                             <div className={Styles.child} key={index}>
                                                 <img className={Styles.childImg} src={book.imglink} alt="" draggable="false" />
                                                 <h1>{book.title}</h1>
-                                                <a href={book.link}>Read</a>
-                                                
+                                                <Link to={book.link} className={Styles.childread} >Read</Link>
                                             </div>
                                         )
                                     })
@@ -70,7 +69,8 @@ const Home = () => {
                                 <div className={Styles.child} key={index}>
                                     <img className={Styles.childImg} src={book.image} alt={book.title} draggable="false" />
                                     <h1>{book.title}</h1>
-                                    <a href="#">Read</a>
+                                    <Link to={book.link} className={Styles.childread} >Read</Link>
+
                                 </div>
                             ))}
 
@@ -101,7 +101,7 @@ const Home = () => {
                                             <div className={Styles.child} key={index}>
                                                 <img className={Styles.childImg} src={book.imglink} alt="" draggable="false" />
                                                 <h1>{book.title}</h1>
-                                                <a href="">Read</a>
+                                                <Link to={book.link} className={Styles.childread} >Read</Link>
                                             </div>
                                         )
                                     })
@@ -112,7 +112,7 @@ const Home = () => {
                                 <div className={Styles.child} key={index}>
                                     <img className={Styles.childImg} src={book.image} alt={book.title} draggable="false" />
                                     <h1>{book.title}</h1>
-                                    <a href="#">Read</a>
+                                    <Link to={book.link} className={Styles.childread} >Read</Link>
                                 </div>
                             ))}
 
@@ -144,7 +144,7 @@ const Home = () => {
                                             <div className={Styles.child} key={index}>
                                                 <img className={Styles.childImg} src={book.imglink} alt="" draggable="false" />
                                                 <h1>{book.title}</h1>
-                                                <a href="">Read</a>
+                                                <Link to={book.link} className={Styles.childread} >Read</Link>
                                             </div>
                                         )
                                     })
@@ -157,7 +157,7 @@ const Home = () => {
                                 <div className={Styles.child} key={index}>
                                     <img className={Styles.childImg} src={book.image} alt={book.title} draggable="false" />
                                     <h1>{book.title}</h1>
-                                    <a href="#">Read</a>
+                                    <Link to={book.link} className={Styles.childread} >Read</Link>
                                 </div>
                             ))}
 
@@ -189,7 +189,7 @@ const Home = () => {
                                             <div className={Styles.child} key={index}>
                                                 <img className={Styles.childImg} src={book.imglink} alt="" draggable="false" />
                                                 <h1>{book.title}</h1>
-                                                <a href="">Read</a>
+                                                <Link to={book.link} className={Styles.childread} >Read</Link>
                                             </div>
                                         )
                                     })
@@ -201,7 +201,7 @@ const Home = () => {
                                 <div className={Styles.child} key={index}>
                                     <img className={Styles.childImg} src={book.image} alt={book.title} draggable="false" />
                                     <h1>{book.title}</h1>
-                                    <a href="#">Read</a>
+                                    <Link to={book.link} className={Styles.childread} >Read</Link>
                                 </div>
                             ))}
                         </div>
@@ -229,7 +229,7 @@ const Home = () => {
                                             <div className={Styles.child} key={index}>
                                                 <img className={Styles.childImg} src={book.imglink} alt="" draggable="false" />
                                                 <h1>{book.title}</h1>
-                                                <a href="">Read</a>
+                                                <Link to={book.link} className={Styles.childread} >Read</Link>
                                             </div>
                                         )
                                     })
@@ -240,7 +240,7 @@ const Home = () => {
                                 <div className={Styles.child} key={index}>
                                     <img className={Styles.childImg} src={book.image} alt={book.title} draggable="false" />
                                     <h1>{book.title}</h1>
-                                    <a href="#">Read</a>
+                                    <Link to={book.link} className={Styles.childread} >Read</Link>
                                 </div>
                             ))}
                         </div>
@@ -269,18 +269,18 @@ const Home = () => {
                                             <div className={Styles.child} key={index}>
                                                 <img className={Styles.childImg} src={book.imglink} alt="" draggable="false" />
                                                 <h1>{book.title}</h1>
-                                                <a href="">Read</a>
+                                                <Link to={book.link} className={Styles.childread} >Read</Link>
                                             </div>
                                         )
                                     })
                                     .reverse()
                                 : " "}
 
-{biographyBooksData.biographybooks.map((book, index) => (
+                                {biographyBooksData.biographybooks.map((book, index) => (
                                 <div className={Styles.child} key={index}>
                                     <img className={Styles.childImg} src={book.image} alt={book.title} draggable="false" />
                                     <h1>{book.title}</h1>
-                                    <a href="#">Read</a>
+                                    <Link to={book.link} className={Styles.childread} >Read</Link>
                                 </div>
                             ))}
 
@@ -309,7 +309,7 @@ const Home = () => {
                                             <div className={Styles.child} key={index}>
                                                 <img className={Styles.childImg} src={book.imglink} alt="" draggable="false" />
                                                 <h1>{book.title}</h1>
-                                                <a href="">Read</a>
+                                                <Link to={book.link} className={Styles.childread} >Read</Link>
                                             </div>
                                         )
                                     })
@@ -320,7 +320,7 @@ const Home = () => {
                                 <div className={Styles.child} key={index}>
                                     <img className={Styles.childImg} src={book.image} alt={book.title} draggable="false" />
                                     <h1>{book.title}</h1>
-                                    <a href="#">Read</a>
+                                    <Link to={book.link} className={Styles.childread} >Read</Link>
                                 </div>
                             ))}
 

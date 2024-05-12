@@ -3,52 +3,62 @@
         {
             "id": 1,
             "title": "Stephen Hawking: A Biography",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL3gcZKLE2RDyMdfQaijqgT2Wcla72jKUVLVBOH8s3xBHeeGQ3QDTR1g5scMm-5Y8Kno&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL3gcZKLE2RDyMdfQaijqgT2Wcla72jKUVLVBOH8s3xBHeeGQ3QDTR1g5scMm-5Y8Kno&usqp=CAU",
+            "link": "https://www.hawking.org.uk/biography"
         },
         {
             "id": 2,
             "title": "At the Helm",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf-6MOwwYuH5QXczzed-CC4IWamkQQI7HCUIwIJL0LjscS-XtzL3U5YWWzd25J37W4ZY&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf-6MOwwYuH5QXczzed-CC4IWamkQQI7HCUIwIJL0LjscS-XtzL3U5YWWzd25J37W4ZY&usqp=CAU",
+            "link":"https://www.goodreads.com/book/show/22712097-at-the-helm"        
         },
         {
             "id": 3,
             "title": "Behenji",
-            "image": "https://m.media-amazon.com/images/I/61eGw01BGPL._AC_UF1000,1000_QL80_.jpg"
+            "image": "https://m.media-amazon.com/images/I/61eGw01BGPL._AC_UF1000,1000_QL80_.jpg",
+            "link":"https://www.penguin.co.in/book/behenji/"
         },
         {
             "id": 4,
             "title": "Jawaharlal Nehru",
-            "image": "https://m.media-amazon.com/images/I/41PrC5p39CL._AC_UF1000,1000_QL80_.jpg"
+            "image": "https://m.media-amazon.com/images/I/41PrC5p39CL._AC_UF1000,1000_QL80_.jpg",
+            "link":"https://www.goodreads.com/author/show/89095.Jawaharlal_Nehru"
         },
         {
             "id": 5,
             "title": "Einstein: His Life and Universe",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyOExJEEdW6QGIem5_hKDPMump_bOurikUSJx4d3FRh_nRvSPOxEhM0zpDsjeiL-ctG8&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyOExJEEdW6QGIem5_hKDPMump_bOurikUSJx4d3FRh_nRvSPOxEhM0zpDsjeiL-ctG8&usqp=CAU",
+            "link":"https://books.google.co.in/books?id=d2WZDgAAQBAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=fa"
         },
         {
             "id": 6,
             "title": "Mahatma Gandhi",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_jhrBdX3XUimSPOZAZyFPd64oNPswPCY9roX8i1HR0cORYe5Vc1DvB99d-PsmZyJySA&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_jhrBdX3XUimSPOZAZyFPd64oNPswPCY9roX8i1HR0cORYe5Vc1DvB99d-PsmZyJySA&usqp=CAU",
+            "link":"https://www.mkgandhi.org/bk123.php"
         },
         {
             "id": 7,
             "title": "Gandhi Before India",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnIPKmE0mis6GGER4zPRTZEZTjXsu9FIfrKg&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnIPKmE0mis6GGER4zPRTZEZTjXsu9FIfrKg&usqp=CAU",
+            "link":"http://dspace.vnbrims.org:13000/jspui/bitstream/123456789/4981/1/Gandhi%20Before%20India.pdf"
         },
         {
             "id": 8,
             "title": "Mother India: Indira Gandhi",
-            "image": "https://cdn.exoticindia.com/images/products/original/books/ihl339.jpg"
+            "image": "https://cdn.exoticindia.com/images/products/original/books/ihl339.jpg",
+            "link":"https://books.google.co.in/books?id=OOmK1lPWq80C&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false"
         },
         {
             "id": 9,
             "title": "Why I Am an Atheist",
-            "image": "https://m.media-amazon.com/images/I/41KjA2iNXvL._SY445_SX342_.jpg"
+            "image": "https://m.media-amazon.com/images/I/41KjA2iNXvL._SY445_SX342_.jpg",
+            "link":"https://www.marxists.org/archive/bhagat-singh/1930/10/05-files/why-i-am-an-athe"
         },
         {
             "id": 10,
             "title": "Learning How to Fly",
-            "image": "https://m.media-amazon.com/images/I/413u91II2oL._SY445_SX342_.jpg"
+            "image": "https://m.media-amazon.com/images/I/413u91II2oL._SY445_SX342_.jpg",
+            "link":"https://www.goodreads.com/en/book/show/32936657"
         }
     ]
 }

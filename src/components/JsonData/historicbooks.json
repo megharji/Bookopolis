@@ -3,53 +3,63 @@
         {
             "id": 1,
             "title": "An entirely new history of India",
-            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601883114l/55562715.jpg"
+            "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601883114l/55562715.jpg",
+            "link": "https://www.goodreads.com/en/book/show/55562715"
         },
         {
             "id": 2,
             "title": "The wonder that was India",
-            "image": "https://m.media-amazon.com/images/I/71n+dHojC4L._SY425_.jpg"
+            "image": "https://m.media-amazon.com/images/I/71n+dHojC4L._SY425_.jpg",
+            "link": "https://archive.org/details/TheWonderThatWasIndiaByALBasham"
         },
         {
             "id": 3,
             "title": "History of Medieval India",
-            "image": "https://m.media-amazon.com/images/I/812JrT-AdZL._AC_UF1000,1000_QL80_.jpg"
+            "image": "https://m.media-amazon.com/images/I/812JrT-AdZL._AC_UF1000,1000_QL80_.jpg",
+            "link": "https://www.jagranjosh.com/general-knowledge/history-of-medieval-india-a-complete-study-material-1464934631-1"
            
         },
         {
             "id": 4,
             "title": "The Last Mughal: The eclipse of a dynasty",
-            "image": "https://williamdalrymple.com/images/book_images/last_mughal_hard_bloomsbury.jpg"
+            "image": "https://williamdalrymple.com/images/book_images/last_mughal_hard_bloomsbury.jpg",
+            "link": "https://archive.org/details/thelastmughalthefallofadynastydelhi18572008vintagebooks_201910"
         },
         {
             "id": 5,
             "title": "Jainism History Society Philosophy and practise",
-            "image": "https://www.mlbd.in/cdn/shop/products/15764_grande.jpg?v=1480061224"
+            "image": "https://www.mlbd.in/cdn/shop/products/15764_grande.jpg?v=1480061224",
+            "link":"https://www.goodreads.com/book/show/19593431-jainism"
         },
         {
             "id": 6,
             "title": "History of sikhs",
-            "image": "https://m.media-amazon.com/images/I/81dGXB89uJL._AC_UF894,1000_QL80_.jpg"
+            "image": "https://m.media-amazon.com/images/I/81dGXB89uJL._AC_UF894,1000_QL80_.jpg",
+            "link":"https://www.goodreads.com/en/book/show/1070024"
         },
         {
             "id": 7,
             "title": "History of India",
-            "image": "https://m.media-amazon.com/images/I/811T+b+0qdL._AC_UF894,1000_QL80_.jpg"
+            "image": "https://m.media-amazon.com/images/I/811T+b+0qdL._AC_UF894,1000_QL80_.jpg",
+            "link": "https://hkrdb.kar.nic.in/documents/Downloads/Good%20Reads/A%20History%20of%20India%202nd%20ed.pdf"
         },
         {
             "id": 8,
             "title": "An era of darkness The British Empire in India",
-            "image": "https://m.media-amazon.com/images/I/81flaySX1xL._AC_UF1000,1000_QL80_.jpg"
+            "image": "https://m.media-amazon.com/images/I/81flaySX1xL._AC_UF1000,1000_QL80_.jpg",
+            "link": "https://www.goodreads.com/book/show/32618967-an-era-of-darkness"
         },
         {
             "id": 9,
             "title": "The concise history of Buddhism",
-            "image": "https://m.media-amazon.com/images/I/A1XOBk1EawL._AC_UF1000,1000_QL80_.jpg"
+            "image": "https://m.media-amazon.com/images/I/A1XOBk1EawL._AC_UF1000,1000_QL80_.jpg",
+            "link":"https://www.goodreads.com/en/book/show/809409"
         },
         {
             "id": 10,
             "title": "India's struggle for independence",
-            "image": "https://easyengineering.net/wp-content/uploads/2017/10/Indias-Struggle-for-Independence-1857-1947-By-Bipan-Chandra-Mridula-Mukherjee-Aditya-Mukherjee-Sucheta-Mahajan.jpg"
+            "image": "https://easyengineering.net/wp-content/uploads/2017/10/Indias-Struggle-for-Independence-1857-1947-By-Bipan-Chandra-Mridula-Mukherjee-Aditya-Mukherjee-Sucheta-Mahajan.jpg",
+            "link":"https://archive.org/details/indias-struggle-for-independence_202106"
         }
     ]
 }

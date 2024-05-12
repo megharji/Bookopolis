@@ -3,52 +3,62 @@
         {
             "id": 1,
             "title": "That Night",
-            "image": "https://m.media-amazon.com/images/I/41kRkqIt6aL._SY445_SX342_.jpg"
+            "image": "https://m.media-amazon.com/images/I/41kRkqIt6aL._SY445_SX342_.jpg",
+            "link":"https://www.goodreads.com/en/book/show/57"
         },
         {
             "id": 2,
             "title": "The Hidden Hindu",
-            "image": "https://m.media-amazon.com/images/I/51TcWGvqLZL._SY445_SX342_.jpg"
+            "image": "https://m.media-amazon.com/images/I/51TcWGvqLZL._SY445_SX342_.jpg",
+            "link":"https://archive.org/details/the-hidden-hindu"
         },
         {
             "id": 3,
             "title": "A Good Girl's Guide to Murder",
-            "image": "https://m.media-amazon.com/images/I/51wlOYeH4BL._SY445_SX342_.jpg"
+            "image": "https://m.media-amazon.com/images/I/51wlOYeH4BL._SY445_SX342_.jpg",
+            "link":"https://archive.org/details/a-good-girls-guide-to-murder-holly-jackson"
         },
         {
             "id": 4,
             "title": "Devi",
-            "image": "https://qph.cf2.quoracdn.net/main-qimg-2f8330aceb344b90dd413db531a1f22a-lq"
+            "image": "https://qph.cf2.quoracdn.net/main-qimg-2f8330aceb344b90dd413db531a1f22a-lq",
+            "link":"https://www.wisdomlib.org/hinduism/book/devi-bhagavata-purana"
         },
         {
             "id": 5,
             "title": "Darkness",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLE_YGhFgA8LLiiCONyik0SHs5W8ZtWcW8nXEVikmlD7YyB1E1Pysa-Y6dBP08-HjBiCI&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLE_YGhFgA8LLiiCONyik0SHs5W8ZtWcW8nXEVikmlD7YyB1E1Pysa-Y6dBP08-HjBiCI&usqp=CAU",
+            "link":"https://allnovel.net/after-the-darkness.html"
         },
         {
             "id": 6,
             "title": "IT",
-            "image": "https://s3.r29static.com/bin/entry/754/x,80/2030551/image.jpg"
+            "image": "https://s3.r29static.com/bin/entry/754/x,80/2030551/image.jpg",
+            "link":"https://www.goodreads.com/book/show/830502.It"
         },
         {
             "id": 7,
             "title": "Pet Sematary",
-            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-10/5/15/asset/buzzfeed-prod-web-05/sub-buzz-13709-1538769599-1.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto"
+            "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-10/5/15/asset/buzzfeed-prod-web-05/sub-buzz-13709-1538769599-1.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto",
+            "link":"https://www.goodreads.com/book/show/33124137-pet-sematary"
         },
         {
             "id": 8,
             "title": "City of Screams",
-            "image": "https://www.njkinnysblog.com/wp-content/uploads/2022/09/city-of-screams-neil-d-silva-book-cover.png"
+            "image": "https://www.njkinnysblog.com/wp-content/uploads/2022/09/city-of-screams-neil-d-silva-book-cover.png",
+            "link":"https://jamesrollins.com/book/city-of-screams/"
         },
         {
             "id": 9,
             "title": "The Frequent Visitor",
-            "image": "https://www.booked4books.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-14-at-4.36.54-PM.jpeg"
+            "image": "https://www.booked4books.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-14-at-4.36.54-PM.jpeg",
+            "link":"https://www.goodreads.com/en/book/show/23593610"
         },
         {
             "id": 10,
             "title": "Ghosts in the Dark Silence",
-            "image": "https://www.bookgeeks.in/wp-content/uploads/2023/05/Ghosts-in-the-Dark-Silence-by-Anita-Krishnan.jpg"
+            "image": "https://www.bookgeeks.in/wp-content/uploads/2023/05/Ghosts-in-the-Dark-Silence-by-Anita-Krishnan.jpg",
+            "link":"https://www.goodreads.com/en/book/show/633465"
         }
     ]
 }

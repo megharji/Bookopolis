@@ -3,52 +3,62 @@
         {
             "id": 1,
             "title": "Midnight's children",
-            "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/05/567730bc6e510a6f3a759529_bk7.jpg"
+            "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/05/567730bc6e510a6f3a759529_bk7.jpg",
+            "link":"http://www.sxcsrannalibrary.co.in/sites/default/files/Midnight%27s%20Children%20-%20Salman%20Rushdie.pdf"
         },
         {
             "id": 2,
             "title": "The endless search for satisfaction",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOImB6nPy7LQJg0D2yAnBmKRJ_Zug2lvi5g&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFOImB6nPy7LQJg0D2yAnBmKRJ_Zug2lvi5g&usqp=CAU",
+            "link":"https://www.goodreads.com/en/book/show/44770388"
         },
         {
             "id": 3,
             "title": "Life is what you make it",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9EmBl1F6synfUmosAmLG-FuQPyuQifvAmbgTuLWNQjFYpxtma6ExSBVc7KqulfRul-M&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI9EmBl1F6synfUmosAmLG-FuQPyuQifvAmbgTuLWNQjFYpxtma6ExSBVc7KqulfRul-M&usqp=CAU",
+            "link":"https://www.goodreads.com/en/book/show/11256293"
         },
         {
             "id": 4,
             "title": "The girl in the room 105",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLPykGzJcYmNh_fSWwhVhzSU1xVbbup9ZBg&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLPykGzJcYmNh_fSWwhVhzSU1xVbbup9ZBg&usqp=CAU",
+            "link":"https://archive.org/details/the-girl-in-room-105-chetan-bhag"
         },
         {
             "id": 5,
             "title": "Bahubali before the beginning",
-            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/08/Chaturanga-Anand-by-Neelakantan-1200x1864.jpg"
+            "image": "https://www.bookgeeks.in/wp-content/uploads/2020/08/Chaturanga-Anand-by-Neelakantan-1200x1864.jpg",
+            "link":"https://librarywala.com/books/116283562137-queen-of-mahishmathi-s-s-rajamouli-039-s-bahubali-before-the-beginning-book-3-baahubali-before-the-beginning-"
         },
         {
             "id": 6,
             "title": "This is not your story",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_3-pRDRBKb_iFBTD_CoMSCnrx8hMKN4-fXZjqZ2v8driHRWh6R8zQVj_MPRCMfDeHK4&usqp=CAU"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_3-pRDRBKb_iFBTD_CoMSCnrx8hMKN4-fXZjqZ2v8driHRWh6R8zQVj_MPRCMfDeHK4&usqp=CAU",
+            "link":"https://dramaqueensaga.wordpress.com/2019/03/30/book-review-this-is-not-your-story-by-savi-sha"
         },
         {
             "id": 7,
             "title": "Autobiography of an unknown Indian",
-            "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/05/567730bc6e510a6f3a759529_bk2.jpg"
+            "image": "https://wp.scoopwhoop.com/wp-content/uploads/2014/05/567730bc6e510a6f3a759529_bk2.jpg",
+            "link":"https://librarywala.com/books/177916660873-autobiography-of-an-unknown-indian"
         },
         {
             "id": 8,
             "title": "The alchemist",
-            "image": "https://m.media-amazon.com/images/I/41e+TR4xPDL._SY445_SX342_.jpg"
+            "image": "https://m.media-amazon.com/images/I/41e+TR4xPDL._SY445_SX342_.jpg",
+            "link":"https://www.goodreads.com/en/book/show/18144590"
         },
         {
             "id": 9,
             "title": "You only live once",
-            "image": "https://m.media-amazon.com/images/I/71dNsRuYL7L._SY425_.jpg"
+            "image": "https://m.media-amazon.com/images/I/71dNsRuYL7L._SY425_.jpg",
+            "link":"https://www.goodreads.com/en/book/show/51352731"
         },
         {
             "id": 10,
             "title": "Something I never told you",
-            "image": "https://m.media-amazon.com/images/I/91PQFpYWLwL._SY425_.jpg"
+            "image": "https://m.media-amazon.com/images/I/91PQFpYWLwL._SY425_.jpg",
+            "link":"https://www.wattpad.com/720142956-excerpts-something-i-never-told-you-by-shravya"
         }
     ]
 }

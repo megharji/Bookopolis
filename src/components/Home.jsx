@@ -59,7 +59,8 @@ const Home = () => {
                                             <div className={Styles.child} key={index}>
                                                 <img className={Styles.childImg} src={book.imglink} alt="" draggable="false" />
                                                 <h1>{book.title}</h1>
-                                                <a href="">Read</a>
+                                                <a href={book.link}>Read</a>
+                                                
                                             </div>
                                         )
                                     })
